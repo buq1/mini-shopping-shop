@@ -11,7 +11,7 @@ import Edit from '../pages/admin/admin-edit.vue';
 import Detail from '../pages/Detail';
 import Manufacturers from '../pages/admin/admin-manufacturers.vue';
 import NewManufacturers from '../pages/admin/admin-newmanufacturers';
-import EditManufacturers from '../pages/admin/Eadmin-editmanufacturers';
+import EditManufacturers from '../pages/admin/admin-editmanufacturers';
 
 Vue.use(Router);
 
