@@ -10,7 +10,7 @@ Vue.config.productionTip = false
 Vue.component('ValidationProvider',ValidationProvider);
 Vue.use(ElementUI);
 
-new Vue({
+let vue = new Vue({
   el:'#app',
   router,
   store,

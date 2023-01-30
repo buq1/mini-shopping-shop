@@ -12,5 +12,4 @@ module.exports={
       }
      }
   },
-  lintOnSave:false
 }
